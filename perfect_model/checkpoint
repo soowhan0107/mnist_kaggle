@@ -1,0 +1,2 @@
+model_checkpoint_path: "good_accuracy.ckpy"
+all_model_checkpoint_paths: "good_accuracy.ckpy"
